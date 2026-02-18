@@ -20,4 +20,4 @@ Engineer with 7+ years of experience (ex-commercetools, Contorion, GE). I specia
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/barbara-palumbo-b3356a18b)**
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/barbara-palumbo-b3356a18b)
