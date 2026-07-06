@@ -6,7 +6,7 @@ Experienced, team-oriented engineer with a deep background in enterprise e-comme
 
 ---
 
-### 🚀 What I'm Building & Releasing Right Now
+### 🚀 What I'm Building & Releasing
 * 🤖 **AI Orchestration Engine:** A modular Next.js/TypeScript engine for LLMs utilizing a "Critic Pattern" for self-correcting outputs and scalable content workflows.
 * 📱 **Mobile App Exploration:** Developing a unified cross-platform app using **Expo / React Native** focused on native API integration and clean UI performance.
 * 🔌 **Advanced Backend API:** An open-source Symfony API demonstrating advanced Domain-Driven Design (DDD) patterns and strict Test-Driven Development (TDD).
@@ -30,6 +30,7 @@ Experienced, team-oriented engineer with a deep background in enterprise e-comme
 * **API Governance:** Founded the Internal API Committee to establish REST/GraphQL standards and authored comprehensive documentation.
 * **System Visibility:** Built backend microservices and React-based observability UIs (OpenTelemetry/Datadog) to optimize production throughput.
 * **E-Commerce Logic:** Developed modular e-commerce backend logic and state machines at **Contorion** to ensure reliable checkout and payment flows.
+* **AI Engineering: Architected LLM-driven systems utilizing custom orchestration patterns (Critic Pattern) for reliability, self-correction, and data parsing, moving beyond simple API wrapping.
 
 ---
 
