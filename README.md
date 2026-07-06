@@ -30,7 +30,7 @@ Experienced, team-oriented engineer with a deep background in enterprise e-comme
 * **API Governance:** Founded the Internal API Committee to establish REST/GraphQL standards and authored comprehensive documentation.
 * **System Visibility:** Built backend microservices and React-based observability UIs (OpenTelemetry/Datadog) to optimize production throughput.
 * **E-Commerce Logic:** Developed modular e-commerce backend logic and state machines at **Contorion** to ensure reliable checkout and payment flows.
-* **AI Engineering: Architected LLM-driven systems utilizing custom orchestration patterns (Critic Pattern) for reliability, self-correction, and data parsing, moving beyond simple API wrapping.
+* **AI Engineering:** Architected LLM-driven systems utilizing custom orchestration patterns (Critic Pattern) for reliability, self-correction, and data parsing, moving beyond simple API wrapping.
 
 ---
 
