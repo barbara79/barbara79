@@ -46,7 +46,7 @@ Experienced backend engineer with 6+ years of production PHP, Node.js, and TypeS
 
 ### 🌍 Open to Opportunities in Germany
 
-I am actively seeking backend engineering roles in **Berlin**, with a focus on PHP/Laravel, e-commerce, or procurement domain challenges. 
+I am actively seeking backend engineering roles where I can contribute to scalable systems and grow with a collaborative team. I believe every new challenge is an opportunity to learn, build meaningful products, and make a real impact.
 
 * **EU Citizen (Italian)** — No visa or work permit required.
 * **Available to relocate within 9 weeks (~3 months).**
