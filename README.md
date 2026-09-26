@@ -51,7 +51,7 @@ Experienced Senior Backend & Full-Stack Engineer with **8+ years of production e
 
 * **EU Citizen (Italian)** — No visa or work permit required.
 * **Former 7-year Berlin resident** — Relocating back to Berlin.
-* **Open to Senior / Lead Backend & Full-Stack roles.**
+* **Open to Senior Backend & Full-Stack roles.**
 
 ### 🤝 Let's Connect!
 
