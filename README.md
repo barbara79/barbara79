@@ -1,58 +1,57 @@
 # 👋 Hi, I'm Barbara Palumbo
 
-**Senior Backend Engineer (PHP/Symfony | Laravel) | E-Commerce & Procurement Domain Expert**
+**Senior Backend & AI Systems Engineer (PHP 8+ | Symfony | Laravel | TypeScript)**  
+*Former 7-Year Berlin Resident | EU Citizen | Relocating Back to Berlin*
 
-Experienced backend engineer with 6+ years of production PHP, Node.js, and TypeScript experience building scalable APIs and microservices for SaaS and e-commerce platforms (commercetools, Contorion, GE). Unique combination of technical depth and procurement domain expertise from prior experience as a Technical Buyer at General Electric. Currently relocating to Germany (EU citizen, available within 9 weeks).
+Experienced Senior Backend & Full-Stack Engineer with **8+ years of production experience** building scalable APIs, event-driven microservices, and SDK platforms for global SaaS and e-commerce scale-ups (commercetools, Contorion). Specialized in modern PHP 8+, API Governance, Observability, and agentic AI integration (RAG pipelines, OCR, LLM self-correction).
 
 ---
 
 ### 🚀 What I'm Building
 
-* 🔌 **Laravel 11 E-commerce API** (In Progress): A production-ready RESTful API demonstrating Laravel best practices, including authentication (Sanctum), CRUD operations, database migrations, and automated testing (PHPUnit/Pest).
-* 🏗️ **Symfony DDD API**: An open-source Symfony backend API demonstrating advanced Domain-Driven Design (DDD) patterns, Clean Architecture, and strict Test-Driven Development (TDD).
-* 🤖 **AI Orchestration Engine**: A modular Next.js/TypeScript engine for LLM workflows utilizing a "Critic Pattern" for self-correcting outputs and scalable content generation.
+* 🤖 **AI-Powered INCI Ingredient Analysis Platform** (In Progress): A modular Laravel 11 & Next.js application utilizing Computer Vision (OCR) for product label scanning, RAG pipelines grounded in official EU CosIng regulatory datasets, and structured LLM evaluation applying the **Critic Pattern** for hallucination-free outputs.
+* 🏗️ **Symfony DDD & Clean Architecture Template**: An open-source production-ready backend demonstrating Domain-Driven Design (DDD) patterns, strict Test-Driven Development (TDD), and automated contract-first API specs.
+* 🔌 **Enterprise API & SDK Tooling**: Open-source modules demonstrating multi-language SDK automation, OpenAPI governance, and high-performance REST/GraphQL patterns.
 
 ---
 
 ### 🛠️ Tech Stack & Focus Areas
 
-**Backend & APIs:**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![REST API](https://img.shields.io/badge/-REST-000000?style=flat-square&logo=rest-api&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+**Backend & Core APIs:**  
+![PHP](https://img.shields.io/badge/-PHP%208%2B-777BB4?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![REST API](https://img.shields.io/badge/-REST-000000?style=flat-square&logo=rest-api&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Frontend (Full-Stack):**
+**AI Engineering & Agentic Workflows:**  
+`RAG Architectures` • `LLM Evaluation (Critic Pattern)` • `OCR Label Scanning` • `Google Antigravity CLI` • `Cursor / Claude Code`
+
+**Frontend & Dashboards:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Database & Infrastructure:**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Databases & Messaging:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Architecture & Practices:**
-`Domain-Driven Design (DDD)` • `Clean Architecture` • `Test-Driven Development (TDD)` • `Event-Driven Architecture` • `Microservices` • `API Governance` • `SQL Optimization`
+**Architecture & Quality:**  
+`Domain-Driven Design (DDD)` • `Clean Architecture` • `Test-Driven Development (TDD)` • `API Governance` • `Event-Driven Systems` • `SQL Query Tuning`
 
-**Observability & DevOps:**
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/-OTel-000000?style=flat-square&logo=opentelemetry) ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog) ![New Relic](https://img.shields.io/badge/-New%20Relic-1CE783?style=flat-square&logo=new-relic&logoColor=black)
+**Observability:**  
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog) ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry) ![New Relic](https://img.shields.io/badge/-New%20Relic-1CE783?style=flat-square&logo=new-relic&logoColor=black)
 
 ---
 
 ### 📈 Career Impact Highlights
 
-* **PHP Backend & API Development:** 6+ years building production PHP/Symfony and Node.js APIs for high-traffic e-commerce platforms (commercetools, Contorion), serving millions of requests/day.
-* **Procurement Domain Expertise:** Prior experience as a Technical Buyer at General Electric, managing purchase orders, supplier relationships, and inventory workflows — directly applicable to building software for buying teams.
-* **SDK Architecture & Ownership:** Owned the development lifecycle of core PHP and TypeScript SDKs at **commercetools**, simplifying global enterprise SaaS integration for thousands of developers.
-* **E-Commerce Backend Systems:** Developed modular e-commerce backend logic, state machines, and procurement workflows at **Contorion**, optimizing checkout, payment, and inventory management.
-* **Observability & Production Support:** Built React-based observability dashboards and backend microservices (OpenTelemetry/Datadog/New Relic) to monitor and optimize production throughput.
-* **SQL Optimization:** Refactored complex MySQL queries and database schemas, reducing average response time by 40% during high-traffic periods.
+* **8+ Years of Production Engineering:** Architectural ownership of PHP/Symfony and TypeScript APIs processing high-volume traffic for European SaaS and e-commerce platforms (**commercetools**, **Contorion**).
+* **API Committee Leadership:** Co-founded the internal API Design Committee at **commercetools**, defining REST guidelines, OpenAPI contract standards, and multi-language SDK automation.
+* **Full-Stack Observability:** Architected custom React observability dashboards integrated with Datadog, OpenTelemetry, and New Relic for real-time telemetry and alerting.
+* **Database & Query Performance:** Refactored complex MySQL execution paths and schema indexes, reducing query latency by up to 40% on mission-critical product catalogs.
+* **Enterprise Background:** Former Technical Buyer at **General Electric**, bringing end-to-end domain expertise in procurement workflows, vendor technical evaluation, and business requirement mapping.
 
 ---
 
-### 🌍 Open to Opportunities in Germany
-
-I am actively seeking backend engineering roles where I can contribute to scalable systems and grow with a collaborative team. I believe every new challenge is an opportunity to learn, build meaningful products, and make a real impact.
+### 🌍 Open to Opportunities in Berlin & Remote (Germany)
 
 * **EU Citizen (Italian)** — No visa or work permit required.
-* **Available to relocate within 9 weeks (~3 months).**
-* **Open to remote-first or hybrid teams within Germany.**
-
----
+* **Former 7-year Berlin resident** — Relocating back to Berlin.
+* **Open to Senior / Lead Backend & Full-Stack roles.**
 
 ### 🤝 Let's Connect!
 
