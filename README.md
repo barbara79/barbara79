@@ -9,11 +9,16 @@ Experienced Senior Backend & Full-Stack Engineer with **8+ years of production e
 
 ### 🚀 What I'm Building
 
-* 🤖 **AI-Powered INCI Ingredient Analysis Platform** (In Progress): A modular Laravel 11 & Next.js application utilizing Computer Vision (OCR) for product label scanning, RAG pipelines grounded in official EU CosIng regulatory datasets, and structured LLM evaluation applying the **Critic Pattern** for hallucination-free outputs.
-* 🏗️ **Symfony DDD & Clean Architecture Template**: An open-source production-ready backend demonstrating Domain-Driven Design (DDD) patterns, strict Test-Driven Development (TDD), and automated contract-first API specs.
-* 🔌 **Enterprise API & SDK Tooling**: Open-source modules demonstrating multi-language SDK automation, OpenAPI governance, and high-performance REST/GraphQL patterns.
-
+* 🧪 **[Hybrid Text Engine](https://github.com/barbara79/hybrid-text-engine)**: A small Next.js/TypeScript engine for LLM text generation with a self-correcting **Critic Loop**: the model scores its own draft and refines it when the score is below a threshold. Provider-agnostic runner interface, validated scores, and Jest tests covering failure cases. Modes for job applications, marketplace listings, and CV-vs-job-description comparison.
+* 🤖 **AI-Powered INCI Ingredient Analysis Platform** (In Progress): A Laravel 11 & Next.js application that scans product labels with OCR, retrieves ingredient data from the EU CosIng dataset (RAG), and applies a critic step to check LLM answers against that data and reduce hallucinations.
+* 🏗️ **Symfony DDD & Clean Architecture Template**: An open-source Symfony backend demonstrating Domain-Driven Design, Test-Driven Development, and contract-first API specs.
+* 🔌 **API & SDK Tooling**: Open-source modules demonstrating multi-language SDK automation, OpenAPI governance, and REST/GraphQL patterns.
+  
 ---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbara79&theme=react-dark&show_icons=true&hide=stars,contribs&include_all_commits=true&hide_rank=true)](https://github.com/barbara79)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara79&layout=compact&theme=react-dark&hide_border=true&langs_count=6)](https://github.com/barbara79)
 
 ### 🛠️ Tech Stack & Focus Areas
 
