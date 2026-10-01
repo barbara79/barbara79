@@ -16,10 +16,6 @@ Experienced Senior Backend & Full-Stack Engineer with **8+ years of production e
   
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbara79&theme=react-dark&show_icons=true&hide=stars,contribs&include_all_commits=true&hide_rank=true)](https://github.com/barbara79)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara79&layout=compact&theme=react-dark&hide_border=true&langs_count=6)](https://github.com/barbara79)
-
 ### 🛠️ Tech Stack & Focus Areas
 
 **Backend & Core APIs:**  
